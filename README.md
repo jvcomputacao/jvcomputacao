@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is João Victor and I am a BackEnd programmer. I use C# and C++ as my main language but I am always studying other technologies.
+- 🌱 I’m currently learning C# .net(dotnet), c++, python, Sql
 
 <!--
 **jvcomputacao/jvcomputacao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
